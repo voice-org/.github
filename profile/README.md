@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/voice-org/.github/refs/heads/main/profile/Screenshot_23.png" alt="VOICE. Platform Screenshot" width="100%" style="border-radius: 12px; margin-bottom: 2rem;" />
 
   <h1>VOICE<span style="color: #2DD0B3;">.</span></h1>
-  <p><strong>Open-Source Social Media Platform</strong> where every voice matters 💬🌍</p>
+  <p><strong>Open-Source Social Media Platform</strong> where every voice matters</p>
 
   <p>
     Empowering free expression, community connections, and privacy-first networking.<br/>
