@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://via.placeholder.com/1200x600/2DD0B3/FFFFFF?text=VOICE.+Social+Media+Platform+Screenshot](https://raw.githubusercontent.com/voice-org/.github/refs/heads/main/profile/Screenshot_23.png" alt="VOICE. Platform Screenshot" width="100%" style="border-radius: 12px; margin-bottom: 2rem;" />
+  <img src="https://raw.githubusercontent.com/voice-org/.github/refs/heads/main/profile/Screenshot_23.png" alt="VOICE. Platform Screenshot" width="100%" style="border-radius: 12px; margin-bottom: 2rem;" />
 
   <h1>VOICE<span style="color: #2DD0B3;">.</span></h1>
   <p><strong>Open-Source Social Media Platform</strong> where every voice matters 💬🌍</p>
