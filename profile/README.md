@@ -14,8 +14,8 @@
     <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
     <img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" alt="Fastify" />
-    <img src="https://img.shields.io/github/license/VOICE-org/.github?style=for-the-badge" alt="License" />
-    <img src="https://img.shields.io/github/stars/VOICE-org?style=for-the-badge&color=yellow" alt="Stars" />
+    <!-- <img src="https://img.shields.io/github/license/VOICE-org/.github?style=for-the-badge" alt="License" />
+    <img src="https://img.shields.io/github/stars/VOICE-org?style=for-the-badge&color=yellow" alt="Stars" /> -->
   </p>
 
   <p>
@@ -33,7 +33,7 @@
 
 - **Frontend**: Next.js (App Router, Server Components, SSR/SSG)
 - **Backend**: Node.js + Fastify (lightweight, blazing-fast API)
-- **Goals**: Decentralized federation (future), privacy-focused, real-time interactions, easy self-hosting.
+- **Goals**: Privacy-focused, real-time interactions, easy self-hosting.
 
 Currently in early development – join us to build the future of social networking!
 
